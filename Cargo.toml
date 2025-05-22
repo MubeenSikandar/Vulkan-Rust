@@ -13,3 +13,4 @@ tracing = "0.1.41"
 tracing-subscriber = "0.3.19"
 winit = "0.30.10"
 vulkanalia = { version = "=0.28.0", features = ["libloading", "provisional", "window"] }
+thiserror = "2.0.12"
